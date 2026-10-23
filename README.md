@@ -6,3 +6,6 @@ How to run:
 ./MACHINEVFY pre or
 ./MACHINEVFY post or 
 ./MACHINEVFY status 
+
+Also, create prmdblist.txt file that should contain all database name exists on the server. 
+ 
